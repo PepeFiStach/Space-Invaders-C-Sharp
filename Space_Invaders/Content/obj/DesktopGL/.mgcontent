@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/michaladamkowski/Projects/Space_Invaders_MAC/Space_Invaders/Content/invaders1.png</File>
+    <File>/Users/michaladamkowski/Projects/Space_Invaders_MAC/Space_Invaders/Content/invaders2.png</File>
+    <File>/Users/michaladamkowski/Projects/Space_Invaders_MAC/Space_Invaders/Content/invaders3.png</File>
+    <File>/Users/michaladamkowski/Projects/Space_Invaders_MAC/Space_Invaders/Content/pocisk.png</File>
+    <File>/Users/michaladamkowski/Projects/Space_Invaders_MAC/Space_Invaders/Content/statek.png</File>
+    <File>/Users/michaladamkowski/Projects/Space_Invaders_MAC/Space_Invaders/Content/koniec.png</File>
+    <File>/Users/michaladamkowski/Projects/Space_Invaders_MAC/Space_Invaders/Content/czcionka.spritefont</File>
+    <File>/Users/michaladamkowski/Projects/Space_Invaders_MAC/Space_Invaders/Content/tarcza1.png</File>
+    <File>/Users/michaladamkowski/Projects/Space_Invaders_MAC/Space_Invaders/Content/tarcza2.png</File>
+    <File>/Users/michaladamkowski/Projects/Space_Invaders_MAC/Space_Invaders/Content/tarcza3.png</File>
+    <File>/Users/michaladamkowski/Projects/Space_Invaders_MAC/Space_Invaders/Content/tarcza4.png</File>
+    <File>/Users/michaladamkowski/Projects/Space_Invaders_MAC/Space_Invaders/Content/tarcza5.png</File>
+    <File>/Users/michaladamkowski/Projects/Space_Invaders_MAC/Space_Invaders/Content/plansza1.png</File>
+  </SourceFiles>
+</SourceFileCollection>
