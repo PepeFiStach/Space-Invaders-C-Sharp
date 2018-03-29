@@ -1,4 +1,4 @@
-# Space-Invaders-C-Sharp
+# Space-Invaders-C-Sharp-MonoGame
 
 This is project in C# with MonoGame framework.
 
